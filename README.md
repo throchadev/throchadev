@@ -16,7 +16,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/throchadev/throchadev/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **throchadev/throchadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
