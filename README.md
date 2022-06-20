@@ -1,4 +1,4 @@
-### Creating bugs since 2019 🤪
+## Creating bugs since 2019 🤪
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=throchadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
