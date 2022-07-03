@@ -1,10 +1,13 @@
 ## Creating bugs since 2019 🤪
 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiago-oliveira-27663b161/)
+
 <div>
 <a href="https://github.com/throchadev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=throchadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=throchadev&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
