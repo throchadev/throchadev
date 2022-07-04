@@ -1,4 +1,4 @@
-## Creating bugs since 2019 🤪
+# Creating bugs since 2019 :stuck_out_tongue_winking_eye:
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiago-oliveira-27663b161/)
 
