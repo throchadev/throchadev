@@ -1,6 +1,6 @@
 # Creating bugs since 2019 :stuck_out_tongue_winking_eye:
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiago-oliveira-27663b161/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiago-de-oliveira-27663b161/)
 
 <div>
 <a href="https://github.com/throchadev">
